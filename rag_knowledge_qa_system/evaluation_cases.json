@@ -1,0 +1,14 @@
+[
+  {
+    "question": "图书馆什么时候开放？",
+    "expected_source": "图书馆规则.txt"
+  },
+  {
+    "question": "食堂早餐供应到几点？",
+    "expected_source": "食堂开放时间与餐饮服务规则.txt"
+  },
+  {
+    "question": "校园卡丢失后应该怎么办？",
+    "expected_source": "校园生活与综合服务规则.txt"
+  }
+]
